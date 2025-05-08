@@ -1,0 +1,9 @@
+#include<iostream>
+
+int main()
+{
+	setlocale(LC_ALL, "RU");
+	std::cout << "Артем" << std::endl;
+	std::cout << 22 << std::endl;
+	return 0;
+}
